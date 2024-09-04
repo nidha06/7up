@@ -1,0 +1,235 @@
+.container{
+    background-color: #01ae43;
+    height: 108px;
+    display: flex;
+    width:100%;
+    position: fixed;
+    z-index: 3;
+    
+    
+}
+.main{
+   margin-top: 7.8%;
+     display: inline; 
+     padding-top: 5%;
+}
+.cont{
+    position: fixed;
+}
+#logo-1{
+    height: 70px;
+    width: 70px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.list{
+    color: #fff;
+    text-decoration: none;
+    list-style: none;
+    padding-left: 500px;
+    display: inline-flex;
+    padding-top: 15px;
+    margin-left: 10%;
+
+}
+li{
+    padding: 10px;
+    font-size: 20px;
+    margin-top: 6%;
+
+}
+.icons{
+    height: 30px;
+    width: 30px;
+    padding-top: 40px;
+
+}
+.imageboxes{
+    width: 100%;
+}
+.img-1{
+    padding-top: 108px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin-bottom: 0;
+    vertical-align: middle;
+    border: 0;
+    
+}
+.media{
+     margin-left:  58.7%;
+}
+.box{
+    width: 48%;
+    height: 30%;
+    border-radius: 1;
+    background-color: rgba(10, 91, 43, 0.8);
+    opacity: 1.8;
+    position: absolute;
+    margin-left: 24%;
+    margin-top: 15%;
+    border-radius: 116px;
+}
+.footer{
+    height: 150px;
+    background-color: rgb(62,62,62);
+    text-align: center;
+}
+.footer li{
+    list-style: none;
+    display: inline-flex;
+    color: #fff;
+    font-size: 15px;
+    justify-content: center;
+}
+p{
+    font-size: 15px;
+    color: #fff;
+}
+hr{
+    width: 99.8%;
+}
+.refresh{
+    position: absolute;
+    margin-top: 16%;
+    margin-left: 12%;
+    display: inline-flexbox;
+    font-size: 155%;
+    color: #fff;
+}
+.explore{
+    
+    margin-top: 9%;
+    border-radius: 22px;
+    padding: 2px 20px;
+    display: inline-block;
+    text-align: center;
+    position: absolute;
+    width: 56%;
+    height: 36%;
+    border-radius: 1;
+    border-radius: 22px;
+    border-color: #fff;
+    border: 2px solid #fff;
+}
+#store{
+    color: #fff;
+    margin-left: 29%;
+    margin-top: 3%;
+}
+#ptag1{
+    color: #fff;
+    margin-left: 8%;
+    margin-top: 3%;
+    font-size: 20px;
+}
+.find{
+    margin-top: 6%;
+    border-radius: 22px;
+    padding: 2px 20px;
+    display: inline-block;
+    text-align: center;
+    position: absolute;
+    width: 25%;
+    height: 16%;
+    border-radius: 1;
+    border-radius: 22px;
+    border-color: #fff;
+    border: 2.5px solid #fff;
+    margin-left: 34%;
+    color: #fff;
+    font-size: 125%;
+}
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.box2{
+    width: 48%;
+    height: 30%;
+    border-radius: 1;
+    background-color: rgba(10, 91, 43, 0.8);
+    opacity: 1.8;
+    position: absolute;
+    margin-left: 24%;
+    margin-top: -77%;
+    border-radius: 116px;
+}
+#recipes{
+    color: #fff;
+    margin-left: 38%;
+    margin-top: 3%;
+}
+#ptag2{
+    color: #fff;
+    margin-left: 19%;
+    margin-top: 3%;
+    font-size: 20px;
+}
+.view{
+    margin-top: 6%;
+    border-radius: 22px;
+    padding: 2px 20px;
+    display: inline-block;
+    text-align: center;
+    position: absolute;
+    width: 25%;
+    height: 16%;
+    border-radius: 1;
+    border-radius: 22px;
+    border-color: #fff;
+    border: 2.5px solid #fff;
+    margin-left: 34%;
+    color: #fff;
+    font-size: 125%;
+}
+#bh{
+    margin-top: 5%;
+}
+.foot{
+   margin-top: 0%; 
+}
+hr{
+    
+        
+        background-color:#fff;
+        margin: 105px -1045px;
+        width: 100%;
+    
+}
+#image1{
+    margin-top: 0;
+}
+#ref{
+    margin-top: 0;
+}
+.img-2{
+  
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin-bottom: 0;
+    vertical-align: middle;
+    border: 0;
+}
+    .img-3{
+        
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        margin-bottom: 0;
+        vertical-align: middle;
+        border: 0;   
+    }
